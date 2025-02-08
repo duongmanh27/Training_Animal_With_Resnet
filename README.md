@@ -5,3 +5,6 @@ architecture for classifying animal images from the Pascal VOC dataset. Transfer
 a deep neural network that was trained on a large dataset (e.g., ImageNet) and fine-tunes it on a specific target dataset, 
 significantly reducing the amount of data and time required for effective training.
 
+During the training process, the loss starts at a high level, decreases and then stabilizes with periodic sharp peaks.
+
+
