@@ -7,4 +7,9 @@ significantly reducing the amount of data and time required for effective traini
 
 During the training process, the loss starts at a high level, decreases and then stabilizes with periodic sharp peaks.
 
+![Train Loss](images_tensorboard/train_loss.png)
 
+Accuracy: Increased from 0.88 to 0.95 in 100 epochs.
+
+Loss: Reduced from 0.34 to 0.18 in 100 epochs
+![Val Accuracy_Loss](images_tensorboard/val_acc_loss.png)
