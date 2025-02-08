@@ -1,4 +1,4 @@
-ransfer Learning with ResNet-50 on Pascal VOC Animal Dataset
+Transfer Learning with ResNet-50 on Pascal VOC Animal Dataset
 Introduction
 This project demonstrates how to use transfer learning to train a convolutional neural network (CNN) based on the ResNet-50
 architecture for classifying animal images from the Pascal VOC dataset. Transfer learning leverages the pre-trained weights of 
